@@ -9,7 +9,7 @@
             "email": "pepe_botika69@yahoo.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0",
         "yiisoft/yii2": "*"
